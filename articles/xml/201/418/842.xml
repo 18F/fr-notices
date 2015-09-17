@@ -679,11 +679,16 @@
             <HD SOURCE="HED">Authority:</HD>
             <P>18 U.S.C. 2341-2346, unless otherwise noted.</P>
           </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="646" TITLE="27">
+          <AMDPAR>66. [label:646-143-p2] is revised</AMDPAR>
           <SECTION>
             <SECTNO>&#xA7; 646.143</SECTNO>
             <SUBJECT>[Amended]</SUBJECT>
+            <P>When used in this part, terms are defined as follows in this section. Words in the plural shall include the singular, and vice versa. Words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not named which are in the same general class or are otherwise within the scope of the term defined.</P>
+            <P>
+              <E T="03">Appropriate ATF officer.</E> An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) authorized to perform any functions relating to the administration or enforcement of this part by ATF Order 1130.28, Delegation of the Director's Authorities in 27 CFR Parts 45 and 646.</P>
           </SECTION>
-          <AMDPAR>66. Amend &#xA7; 646.143 by removing the words &#x201C;Tobacco and Firearms (ATF)&#x201D; in the definition of &#x201C;Appropriate ATF officer&#x201D; and adding in their place the words &#x201C;Tobacco, Firearms, and Explosives (ATF)&#x201D;.</AMDPAR>
         </REGTEXT>
         <SIG>
           <DATED>Dated: August 4, 2014.</DATED>
