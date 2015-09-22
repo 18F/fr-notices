@@ -172,22 +172,25 @@
           <AMDPAR>1. The authority citation for 27 CFR Part 555 continues to read as follows:</AMDPAR>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
-          <AUTH>
-            <HD SOURCE="HED">Authority:</HD>
-            <P>18 U.S.C. 847.</P>
-          </AUTH>
+          <AMDPAR>2. Section 555.41 is amended by revising paragraphs (a)(3) and (b)(3)(ii) to read as follows:</AMDPAR>
           <SECTION>
             <SECTNO>&#xA7; 555.41</SECTNO>
             <SUBJECT>[Amended]</SUBJECT>
-          </SECTION>
-          <AMDPAR>2. Section 555.41 is amended by removing &#x201C;of the class authorized by this permit&#x201D; at the end of the second sentence in paragraphs (a)(3) and (b)(3)(ii).</AMDPAR>
-          <SECTION>
-            <SECTNO>&#xA7; 555.52</SECTNO>
-            <SUBJECT>[Amended]</SUBJECT>
+            <P>(a) * * *</P>
+            <P>(3) Except as provided in paragraph (a)(1) of this section, each person intending to acquire explosive materials from a licensee in a State other than a State in which he resides, or from a foreign country, or who intends to transport explosive materials in interstate or foreign commerce, must file an application, with the required fee (see § 555.43), with ATF in accordance with the instructions on the form (see § 555.45). A permit will, subject to law, entitle the permittee to acquire, transport, ship, and receive in interstate or foreign commerce explosive materials. Only one permit is required under this part.</P>
+            <P>(b) * * *</P>
+            <P>(3) * * *</P>
+            <P>(ii) Each person intending to acquire explosive materials from a licensee in a State other than a State in which he resides, or from a foreign country, or who intends to transport explosive materials in interstate or foreign commerce, must file an application for a user permit, with the required fee (<E T="03">see</E> § 555.43), with ATF in accordance with the instructions on the form (<E T="03">see</E> § 555.45). A user permit will, subject to law, entitle the permittee to transport, ship, and receive in interstate or foreign commerce explosive materials. Only one user permit per person is required under this part, irrespective of the number of locations relating to explosive materials operated by the holder of the user permit.</P>
           </SECTION>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>3. Section 555.52 is amended by removing the phrase &#x201C;and class (as described in &#xA7; 555.202)&#x201D; in paragraphs (a) and (b).</AMDPAR>
+          <AMDPAR>3. Section 555.52 is amended by revising paragraphs (a) and (b).</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 555.52</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+            <P>(a) The license covers the business of explosive materials specified in the license at the licensee's business premises (see § 555.41(b)).</P>
+            <P>(b) The permit is valid with respect to the type of operations of explosive materials specified in the permit.</P>
+          </SECTION>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
           <SECTION>
